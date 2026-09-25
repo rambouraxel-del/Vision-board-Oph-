@@ -1,5 +1,61 @@
 [
   {
+    "key": "classe-coin-lecture",
+    "title": "File:Reading Corner.jpg",
+    "author": "Eduwis Education",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reading_Corner.jpg"
+  },
+  {
+    "key": "classe-ecole",
+    "title": "File:Primary school in Bernardswiller (2).jpg",
+    "author": "Tournasol7",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Primary_school_in_Bernardswiller_(2).jpg"
+  },
+  {
+    "key": "classe-ilots",
+    "title": "File:Salle de classe mutuelle au lycée Dorian.jpg",
+    "author": "Vetadine",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salle_de_classe_mutuelle_au_lyc%C3%A9e_Dorian.jpg"
+  },
+  {
+    "key": "classe-jardin",
+    "title": "File:Peak to Peak Charter School educational garden with raised beds and shed, Lafayette, Colorado, USA - 2025.jpg",
+    "author": "Mikepascoe",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Peak_to_Peak_Charter_School_educational_garden_with_raised_beds_and_shed,_Lafayette,_Colorado,_USA_-_2025.jpg"
+  },
+  {
+    "key": "classe-materiel",
+    "title": "File:Colored pencils in holder.jpg",
+    "author": "ThoBel-0043",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colored_pencils_in_holder.jpg"
+  },
+  {
+    "key": "classe-rangements",
+    "title": "File:Hitane Elementary School 1st grade classroom 2.jpg",
+    "author": "Douglas P Perkins",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hitane_Elementary_School_1st_grade_classroom_2.jpg"
+  },
+  {
+    "key": "deco-cuisine-famille",
+    "title": "File:Interiør fra husmannsplassen Nysveen i Vardal på Eiktunet folkemuseum på Gjøvik.JPG",
+    "author": "Øyvind Holmstad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interi%C3%B8r_fra_husmannsplassen_Nysveen_i_Vardal_p%C3%A5_Eiktunet_folkemuseum_p%C3%A5_Gj%C3%B8vik.JPG"
+  },
+  {
     "key": "deco-cuisine-provencale",
     "title": "File:La cuisine provençale .jpg",
     "author": "Lemuseeprovencal",
@@ -8,11 +64,67 @@
     "source": "https://commons.wikimedia.org/wiki/File:La_cuisine_proven%C3%A7ale_.jpg"
   },
   {
+    "key": "deco-fleurs-sechees",
+    "title": "File:Protea dried for decoration purposes.webp",
+    "author": "Valeria Klewes - Lykke & You",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Protea_dried_for_decoration_purposes.webp"
+  },
+  {
     "key": "deco-tissus",
     "title": "File:Taraïettes et tissu provençal à Nyons.jpg",
     "author": "vpagnouf",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tara%C3%AFettes_et_tissu_proven%C3%A7al_%C3%A0_Nyons.jpg"
+  },
+  {
+    "key": "dest-copenhague",
+    "title": "File:Nyhavn, Copenhagen, 20220618 1725 7350.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nyhavn,_Copenhagen,_20220618_1725_7350.jpg"
+  },
+  {
+    "key": "dest-kyoto",
+    "title": "File:Torii, Fushimi Inari-Taisha.jpg",
+    "author": "Marco Almbauer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torii,_Fushimi_Inari-Taisha.jpg"
+  },
+  {
+    "key": "dest-lisbonne",
+    "title": "File:Lissabon - Alfama - Largo de Santa Luzia - Streetcar - 2.jpg",
+    "author": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Alfama_-_Largo_de_Santa_Luzia_-_Streetcar_-_2.jpg"
+  },
+  {
+    "key": "dest-marrakech",
+    "title": "File:Le jardin des majorelle 16.JPG",
+    "author": "Viault",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_jardin_des_majorelle_16.JPG"
+  },
+  {
+    "key": "dest-quebec",
+    "title": "File:Chateau Frontenac from a street in Old Quebec.jpg",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Chateau_Frontenac_from_a_street_in_Old_Quebec.jpg"
+  },
+  {
+    "key": "dest-santorin",
+    "title": "File:07-17-2012 - Oia - Santorini - Greece - 15.jpg",
+    "author": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_15.jpg"
   }
 ]
