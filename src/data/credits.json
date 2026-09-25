@@ -1,5 +1,37 @@
 [
   {
+    "key": "classe-affichages",
+    "title": "File:Elementary classroom in Alaska.jpg",
+    "author": "Liz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elementary_classroom_in_Alaska.jpg"
+  },
+  {
+    "key": "classe-albums",
+    "title": "File:Miami Dade Main Library - Children's Room 05.jpg",
+    "author": "Alequihdez",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miami_Dade_Main_Library_-_Children%27s_Room_05.jpg"
+  },
+  {
+    "key": "classe-americaine",
+    "title": "File:Boxwood PS kindergarten classroom.jpg",
+    "author": "ChinaFlag",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Boxwood_PS_kindergarten_classroom.jpg"
+  },
+  {
+    "key": "classe-calendrier",
+    "title": "File:Classroom in the U.S.jpg",
+    "author": "Marie from Malang, East Java, Indonesia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Classroom_in_the_U.S.jpg"
+  },
+  {
     "key": "classe-coin-lecture",
     "title": "File:Reading Corner.jpg",
     "author": "Eduwis Education",
@@ -48,6 +80,30 @@
     "source": "https://commons.wikimedia.org/wiki/File:Hitane_Elementary_School_1st_grade_classroom_2.jpg"
   },
   {
+    "key": "deco-chambre-campagne",
+    "title": "File:Ali Inay 2015-02-25 (Unsplash).jpg",
+    "author": "Ali Inay inayali",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Ali_Inay_2015-02-25_(Unsplash).jpg"
+  },
+  {
+    "key": "deco-chambre-lin",
+    "title": "File:Open bedroom window in Paris.jpg",
+    "author": "JOHN TOWNER heytowner",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Open_bedroom_window_in_Paris.jpg"
+  },
+  {
+    "key": "deco-coin-lecture",
+    "title": "File:Taipei 1 (Unsplash).jpg",
+    "author": "Cater Yang rugeli",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_1_(Unsplash).jpg"
+  },
+  {
     "key": "deco-cuisine-famille",
     "title": "File:Interiør fra husmannsplassen Nysveen i Vardal på Eiktunet folkemuseum på Gjøvik.JPG",
     "author": "Øyvind Holmstad",
@@ -70,6 +126,46 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Protea_dried_for_decoration_purposes.webp"
+  },
+  {
+    "key": "deco-mas-lavande",
+    "title": "File:Mas du Pont de Rousty.jpg",
+    "author": "Estelle Rouquette",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mas_du_Pont_de_Rousty.jpg"
+  },
+  {
+    "key": "deco-salon-boheme",
+    "title": "File:Furnished living room. (Unsplash).jpg",
+    "author": "Stephen Di Donato sdidonato",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Furnished_living_room._(Unsplash).jpg"
+  },
+  {
+    "key": "deco-salon-provencal",
+    "title": "File:Small Amsterdam storefront (Unsplash).jpg",
+    "author": "Eduard Militaru eduardmilitaru",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Small_Amsterdam_storefront_(Unsplash).jpg"
+  },
+  {
+    "key": "deco-sdb",
+    "title": "File:Central Hotel Clawfoot Bathtub.jpg",
+    "author": "Joanna Poe",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Hotel_Clawfoot_Bathtub.jpg"
+  },
+  {
+    "key": "deco-terrasse",
+    "title": "File:Old Village Terrace (48523434491).jpg",
+    "author": "Dejan Krsmanovic",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_Village_Terrace_(48523434491).jpg"
   },
   {
     "key": "deco-tissus",
@@ -126,5 +222,85 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_15.jpg"
+  },
+  {
+    "key": "dress-ballerines",
+    "title": "File:Michael Kors Fulton Moc Ballerina 40T2FUFR1L geprägtes Kalbsleder rot (1) (16199525010).jpg",
+    "author": "SPERA.de Designerschuhe, Taschen und Accessoires from Deutschland",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Michael_Kors_Fulton_Moc_Ballerina_40T2FUFR1L_gepr%C3%A4gtes_Kalbsleder_rot_(1)_(16199525010).jpg"
+  },
+  {
+    "key": "dress-baskets",
+    "title": "File:Converse Jack Purcell sneakers on white canvas.jpg",
+    "author": "Mizael Contreras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Converse_Jack_Purcell_sneakers_on_white_canvas.jpg"
+  },
+  {
+    "key": "dress-chemise-lin",
+    "title": "File:Blouse met korte mouw van transparant crèmekleurig katoen met opennaaiwerk, koordje in de taille, objectnr 26707.JPG",
+    "author": "Museum Rotterdam",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blouse_met_korte_mouw_van_transparant_cr%C3%A8mekleurig_katoen_met_opennaaiwerk,_koordje_in_de_taille,_objectnr_26707.JPG"
+  },
+  {
+    "key": "dress-foulard",
+    "title": "File:TIE AND DYE TECHNIQUES ON A SILK SCARF.jpg",
+    "author": "SEN Heritage Looms - Sophia Tsourinaki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TIE_AND_DYE_TECHNIQUES_ON_A_SILK_SCARF.jpg"
+  },
+  {
+    "key": "dress-jean",
+    "title": "File:Recycled thread made from old jeans, on display in Hikarie.jpg",
+    "author": "Syced",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Recycled_thread_made_from_old_jeans,_on_display_in_Hikarie.jpg"
+  },
+  {
+    "key": "dress-jupe-midi",
+    "title": "File:Jun Takahashi dress for Undercover (51493).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jun_Takahashi_dress_for_Undercover_(51493).jpg"
+  },
+  {
+    "key": "dress-panier",
+    "title": "File:Handwoven Palm Leaf Basket Bag.jpg",
+    "author": "Nabunje Leticia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Handwoven_Palm_Leaf_Basket_Bag.jpg"
+  },
+  {
+    "key": "dress-pull",
+    "title": "File:Sweater knitted on V-bed flat machine.jpg",
+    "author": "Elkágyé",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweater_knitted_on_V-bed_flat_machine.jpg"
+  },
+  {
+    "key": "dress-robe-fleurie",
+    "title": "File:Dress by Jonathan Anderson for Loewe (51444).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dress_by_Jonathan_Anderson_for_Loewe_(51444).jpg"
+  },
+  {
+    "key": "dress-trench",
+    "title": "File:Trenchcoat worn by President Gerald R. Ford.jpg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Trenchcoat_worn_by_President_Gerald_R._Ford.jpg"
   }
 ]
