@@ -262,8 +262,8 @@ const classePos = grid(130, 270, 6, 260, 330);
 const CLASSE: Item[] = [
   {
     key: 'classe-coin-lecture',
-    title: 'Un coin lecture accueillant',
-    description: 'Tapis, coussins, bacs d’albums rangés face visible : un espace où l’on a envie de lire.',
+    title: 'Une bibliothèque de classe',
+    description: 'Étagères de livres et bacs étiquetés par thème : un coin lecture où l’on a envie de piocher.',
     cat: 'cat-classe-inspirations',
     tags: ['lecture', 'coin calme'],
   },
