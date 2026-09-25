@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "key": "deco-cuisine-provencale",
+    "title": "File:La cuisine provençale .jpg",
+    "author": "Lemuseeprovencal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_cuisine_proven%C3%A7ale_.jpg"
+  },
+  {
+    "key": "deco-tissus",
+    "title": "File:Taraïettes et tissu provençal à Nyons.jpg",
+    "author": "vpagnouf",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tara%C3%AFettes_et_tissu_proven%C3%A7al_%C3%A0_Nyons.jpg"
+  }
+]
