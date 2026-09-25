@@ -1,0 +1,44 @@
+name: Images
+
+# Télécharge les photographies de départ depuis Wikimedia Commons (licences vérifiées),
+# les optimise et les enregistre dans le dépôt avec leurs crédits.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/images.manifest.json
+      - scripts/fetch-images.mjs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Planches de candidats (entrées sans image choisie)
+        run: node scripts/fetch-images.mjs --candidates
+      - name: Images choisies
+        run: node scripts/fetch-images.mjs || echo "Certaines images n'ont pas pu être récupérées"
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A public/images src/data/credits.json candidates || true
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Images : mise à jour des photographies de départ et des crédits"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
