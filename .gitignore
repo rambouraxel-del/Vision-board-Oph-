@@ -4,4 +4,5 @@ dist
 .DS_Store
 scripts/.cache
 test-results
-tests/*.json
+backup.json
+bad.json
