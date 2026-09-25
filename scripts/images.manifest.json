@@ -1,45 +1,268 @@
 {
-  "deco-salon-boheme": { "query": "bohemian living room interior" },
-  "deco-salon-provencal": { "query": "Provence house interior living room" },
-  "deco-coin-lecture": { "query": "reading nook armchair window interior" },
-  "deco-chambre-lin": { "query": "bedroom interior linen bed" },
-  "deco-chambre-campagne": { "query": "country house bedroom interior" },
-  "deco-cuisine-provencale": { "query": "Provençal kitchen interior", "pick": "File:La cuisine provençale .jpg" },
-  "deco-cuisine-famille": { "query": "farmhouse kitchen interior" },
-  "deco-sdb": { "query": "clawfoot bathtub bathroom interior" },
-  "deco-terrasse": { "query": "terrace pergola table Provence" },
-  "deco-mas-lavande": { "query": "mas provençal lavande" },
-  "deco-fleurs-sechees": { "query": "dried flowers vase" },
-  "deco-tissus": { "query": "tissu provençal", "pick": "File:Taraïettes et tissu provençal à Nyons.jpg" },
-
-  "dress-chemise-lin": { "query": "linen shirt" },
-  "dress-cardigan": { "query": "cardigan knitwear" },
-  "dress-trench": { "query": "trench coat" },
-  "dress-jupe-midi": { "query": "pleated skirt" },
-  "dress-robe-fleurie": { "query": "floral dress" },
-  "dress-jean": { "query": "blue jeans denim trousers" },
-  "dress-ballerines": { "query": "ballet flats shoes" },
-  "dress-baskets": { "query": "white sneakers" },
-  "dress-panier": { "query": "straw bag" },
-  "dress-foulard": { "query": "silk scarf" },
-  "dress-pull": { "query": "knitted sweater" },
-  "dress-tshirt": { "query": "white t-shirt" },
-
-  "classe-coin-lecture": { "query": "classroom reading corner" },
-  "classe-americaine": { "query": "elementary school classroom" },
-  "classe-rangements": { "query": "classroom storage bins" },
-  "classe-ilots": { "query": "empty classroom tables" },
-  "classe-affichages": { "query": "classroom bulletin board" },
-  "classe-calendrier": { "query": "classroom wall calendar alphabet" },
-  "classe-albums": { "query": "picture books children library shelf" },
-  "classe-jardin": { "query": "school garden raised beds" },
-  "classe-ecole": { "query": "elementary school building" },
-  "classe-materiel": { "query": "colored pencils" },
-
-  "dest-lisbonne": { "query": "Lisbon tram Alfama" },
-  "dest-santorin": { "query": "Oia Santorini" },
-  "dest-kyoto": { "query": "Fushimi Inari torii" },
-  "dest-marrakech": { "query": "Jardin Majorelle" },
-  "dest-copenhague": { "query": "Nyhavn Copenhagen" },
-  "dest-quebec": { "query": "Château Frontenac Vieux-Québec" }
+  "deco-salon-boheme": {
+    "query": "bohemian living room interior",
+    "queries": [
+      "Unsplash living room",
+      "boho interior",
+      "living room plants rattan"
+    ]
+  },
+  "deco-salon-provencal": {
+    "query": "Provence house interior living room",
+    "queries": [
+      "Provence interior",
+      "maison provençale intérieur",
+      "salon tomettes",
+      "Luberon house interior"
+    ]
+  },
+  "deco-coin-lecture": {
+    "query": "reading nook armchair window interior",
+    "queries": [
+      "Unsplash armchair",
+      "reading nook",
+      "armchair window cozy"
+    ]
+  },
+  "deco-chambre-lin": {
+    "query": "bedroom interior linen bed",
+    "queries": [
+      "Unsplash bedroom",
+      "bedroom linen",
+      "bed linen white bedroom"
+    ]
+  },
+  "deco-chambre-campagne": {
+    "query": "country house bedroom interior",
+    "queries": [
+      "chambre d'hôtes chambre",
+      "guest room countryside France",
+      "bedroom farmhouse"
+    ]
+  },
+  "deco-cuisine-provencale": {
+    "query": "Provençal kitchen interior",
+    "pick": "File:La cuisine provençale .jpg"
+  },
+  "deco-cuisine-famille": {
+    "query": "farmhouse kitchen interior",
+    "pick": "File:Interiør fra husmannsplassen Nysveen i Vardal på Eiktunet folkemuseum på Gjøvik.JPG"
+  },
+  "deco-sdb": {
+    "query": "clawfoot bathtub bathroom interior",
+    "queries": [
+      "clawfoot bathtub",
+      "Unsplash bathroom",
+      "bathroom interior vintage"
+    ]
+  },
+  "deco-terrasse": {
+    "query": "terrace pergola table Provence",
+    "queries": [
+      "terrasse provençale",
+      "terrace table summer",
+      "pergola terrace",
+      "Unsplash terrace"
+    ]
+  },
+  "deco-mas-lavande": {
+    "query": "mas provençal lavande",
+    "queries": [
+      "mas Provence",
+      "lavender field house Provence",
+      "bastide Provence",
+      "Valensole lavender"
+    ]
+  },
+  "deco-fleurs-sechees": {
+    "query": "dried flowers vase",
+    "pick": "File:Protea dried for decoration purposes.webp"
+  },
+  "deco-tissus": {
+    "query": "tissu provençal",
+    "pick": "File:Taraïettes et tissu provençal à Nyons.jpg"
+  },
+  "dress-chemise-lin": {
+    "query": "linen shirt",
+    "queries": [
+      "linen shirt",
+      "white shirt MET",
+      "Unsplash shirt",
+      "blouse white"
+    ]
+  },
+  "dress-cardigan": {
+    "query": "cardigan knitwear",
+    "queries": [
+      "cardigan",
+      "Unsplash sweater",
+      "knitted cardigan pink"
+    ]
+  },
+  "dress-trench": {
+    "query": "trench coat",
+    "queries": [
+      "trench coat",
+      "trenchcoat beige",
+      "Burberry trench"
+    ]
+  },
+  "dress-jupe-midi": {
+    "query": "pleated skirt",
+    "queries": [
+      "pleated skirt",
+      "midi skirt",
+      "skirt MET"
+    ]
+  },
+  "dress-robe-fleurie": {
+    "query": "floral dress",
+    "queries": [
+      "floral dress",
+      "flower print dress",
+      "summer dress MET",
+      "Unsplash dress"
+    ]
+  },
+  "dress-jean": {
+    "query": "blue jeans denim trousers",
+    "queries": [
+      "jeans",
+      "denim jeans folded",
+      "Levi's 501"
+    ]
+  },
+  "dress-ballerines": {
+    "query": "ballet flats shoes",
+    "queries": [
+      "ballet flats",
+      "ballerina shoes",
+      "flat shoes women"
+    ]
+  },
+  "dress-baskets": {
+    "query": "white sneakers",
+    "queries": [
+      "white sneakers",
+      "sneakers",
+      "Stan Smith",
+      "Veja sneakers"
+    ]
+  },
+  "dress-panier": {
+    "query": "straw bag",
+    "queries": [
+      "straw bag",
+      "basket bag",
+      "wicker bag"
+    ]
+  },
+  "dress-foulard": {
+    "query": "silk scarf",
+    "queries": [
+      "silk scarf",
+      "Hermès scarf",
+      "foulard soie"
+    ]
+  },
+  "dress-pull": {
+    "query": "knitted sweater",
+    "queries": [
+      "knitted sweater",
+      "jumper wool",
+      "pullover"
+    ]
+  },
+  "dress-tshirt": {
+    "query": "white t-shirt",
+    "queries": [
+      "white t-shirt",
+      "t-shirt blank",
+      "plain t-shirt"
+    ]
+  },
+  "classe-coin-lecture": {
+    "query": "classroom reading corner",
+    "pick": "File:Reading Corner.jpg"
+  },
+  "classe-americaine": {
+    "query": "elementary school classroom",
+    "queries": [
+      "kindergarten classroom",
+      "classroom United States elementary",
+      "first grade classroom",
+      "classroom decoration"
+    ]
+  },
+  "classe-rangements": {
+    "query": "classroom storage bins",
+    "pick": "File:Hitane Elementary School 1st grade classroom 2.jpg"
+  },
+  "classe-ilots": {
+    "query": "empty classroom tables",
+    "pick": "File:Salle de classe mutuelle au lycée Dorian.jpg"
+  },
+  "classe-affichages": {
+    "query": "classroom bulletin board",
+    "queries": [
+      "classroom bulletin board",
+      "bulletin board school",
+      "classroom display wall",
+      "anchor chart"
+    ]
+  },
+  "classe-calendrier": {
+    "query": "classroom wall calendar alphabet",
+    "queries": [
+      "classroom calendar",
+      "classroom alphabet wall",
+      "word wall classroom",
+      "classroom wall"
+    ]
+  },
+  "classe-albums": {
+    "query": "picture books children library shelf",
+    "queries": [
+      "picture books",
+      "children's books shelf",
+      "children library books",
+      "bibliothèque jeunesse"
+    ]
+  },
+  "classe-jardin": {
+    "query": "school garden raised beds",
+    "pick": "File:Peak to Peak Charter School educational garden with raised beds and shed, Lafayette, Colorado, USA - 2025.jpg"
+  },
+  "classe-ecole": {
+    "query": "elementary school building",
+    "pick": "File:Primary school in Bernardswiller (2).jpg"
+  },
+  "classe-materiel": {
+    "query": "colored pencils",
+    "pick": "File:Colored pencils in holder.jpg"
+  },
+  "dest-lisbonne": {
+    "query": "Lisbon tram Alfama",
+    "pick": "File:Lissabon - Alfama - Largo de Santa Luzia - Streetcar - 2.jpg"
+  },
+  "dest-santorin": {
+    "query": "Oia Santorini",
+    "pick": "File:07-17-2012 - Oia - Santorini - Greece - 15.jpg"
+  },
+  "dest-kyoto": {
+    "query": "Fushimi Inari torii",
+    "pick": "File:Torii, Fushimi Inari-Taisha.jpg"
+  },
+  "dest-marrakech": {
+    "query": "Jardin Majorelle",
+    "pick": "File:Le jardin des majorelle 16.JPG"
+  },
+  "dest-copenhague": {
+    "query": "Nyhavn Copenhagen",
+    "pick": "File:Nyhavn, Copenhagen, 20220618 1725 7350.jpg"
+  },
+  "dest-quebec": {
+    "query": "Château Frontenac Vieux-Québec",
+    "pick": "File:Chateau Frontenac from a street in Old Quebec.jpg"
+  }
 }

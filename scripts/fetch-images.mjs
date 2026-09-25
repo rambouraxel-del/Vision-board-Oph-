@@ -118,15 +118,17 @@ async function search(query, limit = 30) {
 async function candidatesFor(entry) {
   const seen = new Set();
   const out = [];
-  for (const q of [`${entry.query} incategory:Quality_images`, entry.query]) {
-    for (const c of await search(q)) {
+  const queries = entry.queries ?? [entry.query];
+  const all = queries.flatMap((q) => [`${q} incategory:Quality_images`, q]);
+  for (const q of all) {
+    for (const c of await search(q, 12)) {
       if (seen.has(c.title)) continue;
       seen.add(c.title);
       out.push(c);
     }
     await sleep(300);
   }
-  return out.slice(0, 12);
+  return out.slice(0, 16);
 }
 
 async function contactSheet(key, cands) {
@@ -142,6 +144,7 @@ async function contactSheet(key, cands) {
       const label = Buffer.from(
         `<svg width="${W}" height="${H}"><rect x="0" y="0" width="56" height="40" fill="black" opacity="0.7"/><text x="10" y="30" font-size="28" fill="white" font-family="sans-serif">${i}</text></svg>`,
       );
+      if (!cands[i].thumb) continue;
       tiles.push({ input: await sharp(img).composite([{ input: label }]).toBuffer(), left: (i % cols) * W, top: Math.floor(i / cols) * H });
     } catch (e) {
       console.warn(`  vignette ${i} ignorée : ${e.message}`);
