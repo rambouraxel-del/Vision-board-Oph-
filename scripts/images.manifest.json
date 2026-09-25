@@ -5,7 +5,8 @@
       "Unsplash living room",
       "boho interior",
       "living room plants rattan"
-    ]
+    ],
+    "pick": "File:Furnished living room. (Unsplash).jpg"
   },
   "deco-salon-provencal": {
     "query": "Provence house interior living room",
@@ -14,7 +15,8 @@
       "maison provençale intérieur",
       "salon tomettes",
       "Luberon house interior"
-    ]
+    ],
+    "pick": "File:Small Amsterdam storefront (Unsplash).jpg"
   },
   "deco-coin-lecture": {
     "query": "reading nook armchair window interior",
@@ -22,7 +24,8 @@
       "Unsplash armchair",
       "reading nook",
       "armchair window cozy"
-    ]
+    ],
+    "pick": "File:Taipei 1 (Unsplash).jpg"
   },
   "deco-chambre-lin": {
     "query": "bedroom interior linen bed",
@@ -30,7 +33,8 @@
       "Unsplash bedroom",
       "bedroom linen",
       "bed linen white bedroom"
-    ]
+    ],
+    "pick": "File:Open bedroom window in Paris.jpg"
   },
   "deco-chambre-campagne": {
     "query": "country house bedroom interior",
@@ -38,7 +42,8 @@
       "chambre d'hôtes chambre",
       "guest room countryside France",
       "bedroom farmhouse"
-    ]
+    ],
+    "pick": "File:Ali Inay 2015-02-25 (Unsplash).jpg"
   },
   "deco-cuisine-provencale": {
     "query": "Provençal kitchen interior",
@@ -54,7 +59,8 @@
       "clawfoot bathtub",
       "Unsplash bathroom",
       "bathroom interior vintage"
-    ]
+    ],
+    "pick": "File:Central Hotel Clawfoot Bathtub.jpg"
   },
   "deco-terrasse": {
     "query": "terrace pergola table Provence",
@@ -63,7 +69,8 @@
       "terrace table summer",
       "pergola terrace",
       "Unsplash terrace"
-    ]
+    ],
+    "pick": "File:Old Village Terrace (48523434491).jpg"
   },
   "deco-mas-lavande": {
     "query": "mas provençal lavande",
@@ -72,7 +79,8 @@
       "lavender field house Provence",
       "bastide Provence",
       "Valensole lavender"
-    ]
+    ],
+    "pick": "File:Mas du Pont de Rousty.jpg"
   },
   "deco-fleurs-sechees": {
     "query": "dried flowers vase",
@@ -89,14 +97,15 @@
       "white shirt MET",
       "Unsplash shirt",
       "blouse white"
-    ]
+    ],
+    "pick": "File:Blouse met korte mouw van transparant crèmekleurig katoen met opennaaiwerk, koordje in de taille, objectnr 26707.JPG"
   },
   "dress-cardigan": {
-    "query": "cardigan knitwear",
     "queries": [
-      "cardigan",
-      "Unsplash sweater",
-      "knitted cardigan pink"
+      "incategory:Cardigans",
+      "cardigan knit",
+      "gilet en laine",
+      "knitted cardigan"
     ]
   },
   "dress-trench": {
@@ -105,7 +114,8 @@
       "trench coat",
       "trenchcoat beige",
       "Burberry trench"
-    ]
+    ],
+    "pick": "File:Trenchcoat worn by President Gerald R. Ford.jpg"
   },
   "dress-jupe-midi": {
     "query": "pleated skirt",
@@ -113,7 +123,8 @@
       "pleated skirt",
       "midi skirt",
       "skirt MET"
-    ]
+    ],
+    "pick": "File:Jun Takahashi dress for Undercover (51493).jpg"
   },
   "dress-robe-fleurie": {
     "query": "floral dress",
@@ -122,7 +133,8 @@
       "flower print dress",
       "summer dress MET",
       "Unsplash dress"
-    ]
+    ],
+    "pick": "File:Dress by Jonathan Anderson for Loewe (51444).jpg"
   },
   "dress-jean": {
     "query": "blue jeans denim trousers",
@@ -130,7 +142,8 @@
       "jeans",
       "denim jeans folded",
       "Levi's 501"
-    ]
+    ],
+    "pick": "File:Recycled thread made from old jeans, on display in Hikarie.jpg"
   },
   "dress-ballerines": {
     "query": "ballet flats shoes",
@@ -138,7 +151,8 @@
       "ballet flats",
       "ballerina shoes",
       "flat shoes women"
-    ]
+    ],
+    "pick": "File:Michael Kors Fulton Moc Ballerina 40T2FUFR1L geprägtes Kalbsleder rot (1) (16199525010).jpg"
   },
   "dress-baskets": {
     "query": "white sneakers",
@@ -147,7 +161,8 @@
       "sneakers",
       "Stan Smith",
       "Veja sneakers"
-    ]
+    ],
+    "pick": "File:Converse Jack Purcell sneakers on white canvas.jpg"
   },
   "dress-panier": {
     "query": "straw bag",
@@ -155,7 +170,8 @@
       "straw bag",
       "basket bag",
       "wicker bag"
-    ]
+    ],
+    "pick": "File:Handwoven Palm Leaf Basket Bag.jpg"
   },
   "dress-foulard": {
     "query": "silk scarf",
@@ -163,7 +179,8 @@
       "silk scarf",
       "Hermès scarf",
       "foulard soie"
-    ]
+    ],
+    "pick": "File:TIE AND DYE TECHNIQUES ON A SILK SCARF.jpg"
   },
   "dress-pull": {
     "query": "knitted sweater",
@@ -171,14 +188,15 @@
       "knitted sweater",
       "jumper wool",
       "pullover"
-    ]
+    ],
+    "pick": "File:Sweater knitted on V-bed flat machine.jpg"
   },
   "dress-tshirt": {
-    "query": "white t-shirt",
     "queries": [
-      "white t-shirt",
-      "t-shirt blank",
-      "plain t-shirt"
+      "marinière",
+      "Breton shirt",
+      "striped shirt Breton",
+      "incategory:Breton_shirts"
     ]
   },
   "classe-coin-lecture": {
@@ -192,7 +210,8 @@
       "classroom United States elementary",
       "first grade classroom",
       "classroom decoration"
-    ]
+    ],
+    "pick": "File:Boxwood PS kindergarten classroom.jpg"
   },
   "classe-rangements": {
     "query": "classroom storage bins",
@@ -209,7 +228,8 @@
       "bulletin board school",
       "classroom display wall",
       "anchor chart"
-    ]
+    ],
+    "pick": "File:Elementary classroom in Alaska.jpg"
   },
   "classe-calendrier": {
     "query": "classroom wall calendar alphabet",
@@ -218,7 +238,8 @@
       "classroom alphabet wall",
       "word wall classroom",
       "classroom wall"
-    ]
+    ],
+    "pick": "File:Classroom in the U.S.jpg"
   },
   "classe-albums": {
     "query": "picture books children library shelf",
@@ -227,7 +248,8 @@
       "children's books shelf",
       "children library books",
       "bibliothèque jeunesse"
-    ]
+    ],
+    "pick": "File:Miami Dade Main Library - Children's Room 05.jpg"
   },
   "classe-jardin": {
     "query": "school garden raised beds",
