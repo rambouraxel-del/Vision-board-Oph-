@@ -162,7 +162,7 @@ export function patchItem(id: string, patch: Partial<Item>) {
 export async function moveItem(id: string, x: number, y: number) {
   const cur = state.items.find((i) => i.id === id);
   if (!cur) return;
-  const next = { ...cur, x: Math.round(x), y: Math.round(y) };
+  const next = { ...cur, x: Math.round(x), y: Math.round(y), z: Date.now() };
   emit({ items: state.items.map((i) => (i.id === id ? next : i)) });
   try {
     await withDB((db) => db.put('items', next));

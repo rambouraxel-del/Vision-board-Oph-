@@ -55,6 +55,7 @@ export function sanitizeItem(raw: unknown): Item | null {
     zone: str(o.zone),
     x: num(o.x),
     y: num(o.y),
+    z: num(o.z),
     title: str(o.title),
     description: str(o.description),
     notes: str(o.notes),

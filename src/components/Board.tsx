@@ -573,10 +573,12 @@ export function Board(props: Props) {
     const vy0 = view.y - margin;
     const vx1 = view.x + view.w + margin;
     const vy1 = view.y + view.h + margin;
-    return items.filter((it) => {
-      const { w, h } = cardSize(it);
-      return it.x + w > vx0 && it.x < vx1 && it.y + h > vy0 && it.y < vy1;
-    });
+    return items
+      .filter((it) => {
+        const { w, h } = cardSize(it);
+        return it.x + w > vx0 && it.x < vx1 && it.y + h > vy0 && it.y < vy1;
+      })
+      .sort((a, b) => (a.z ?? 0) - (b.z ?? 0));
   }, [items, view, margin]);
 
   const byId = useMemo(() => new Map(items.map((i) => [i.id, i])), [items]);

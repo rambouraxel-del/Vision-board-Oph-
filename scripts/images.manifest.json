@@ -106,7 +106,8 @@
       "cardigan knit",
       "gilet en laine",
       "knitted cardigan"
-    ]
+    ],
+    "pick": "File:Aran cardigan.jpg"
   },
   "dress-trench": {
     "query": "trench coat",
@@ -197,11 +198,17 @@
       "Breton shirt",
       "striped shirt Breton",
       "incategory:Breton_shirts"
-    ]
+    ],
+    "pick": "File:Marinière de la Marine nationale.JPG"
   },
   "classe-coin-lecture": {
-    "query": "classroom reading corner",
-    "pick": "File:Reading Corner.jpg"
+    "queries": [
+      "classroom library",
+      "classroom reading area",
+      "book corner classroom",
+      "bibliothèque de classe",
+      "school library children books shelves"
+    ]
   },
   "classe-americaine": {
     "query": "elementary school classroom",

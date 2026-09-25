@@ -57,6 +57,8 @@ export interface Item {
   zone: string;
   x: number;
   y: number;
+  /** Ordre d'empilement : une carte déplacée passe au premier plan */
+  z?: number;
   title: string;
   description: string;
   notes: string;

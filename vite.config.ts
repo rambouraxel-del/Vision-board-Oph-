@@ -36,7 +36,7 @@ function serviceWorker(): Plugin {
       }
       for (const f of publicFiles) hash.update(f + fs.statSync(path.join(config.publicDir, f)).size);
       const version = hash.digest('hex').slice(0, 12);
-      const template = fs.readFileSync(path.resolve(__dirname, 'src/sw-template.js'), 'utf8');
+      const template = fs.readFileSync(path.resolve(import.meta.dirname, 'src/sw-template.js'), 'utf8');
       this.emitFile({
         type: 'asset',
         fileName: 'sw.js',

@@ -4,7 +4,7 @@ import { useStore } from '../db/store';
 import { useUI, type ListSection } from '../ui';
 import { Sheet } from './Sheet';
 import { Photo } from './Photo';
-import { CLASSE_FORMAT, DECO_STATUS, TRAVEL_STATUS, typeLabel } from '../lib/labels';
+import { CLASSE_FORMAT, DECO_STATUS, TRAVEL_STATUS, displayTitle, typeLabel } from '../lib/labels';
 import { formatPrice, matches } from '../lib/util';
 import { newItem } from '../lib/factory';
 
@@ -180,7 +180,7 @@ export function ListView({ initial, top }: { initial?: ListSection; top: boolean
               <Photo photo={i.photos[0]} alt="" className="row-photo" fallbackLabel={i.title} />
               <span className="row-text">
                 <strong>
-                  {i.title || 'Sans titre'} {i.favorite && <span aria-label="favori">♥</span>}
+                  {displayTitle(i)} {i.favorite && <span aria-label="favori">♥</span>}
                 </strong>
                 <span className="muted">
                   {[

@@ -85,6 +85,8 @@ export const PASTEL_SWATCHES: Record<string, string> = {
   kaki: '#8c8a5e',
   terracotta: '#c9785a',
   corail: '#f19a84',
+  taupe: '#b8a898',
+  rouge: '#d9534f',
 };
 
 export function swatchFor(color?: string): string | null {
@@ -93,4 +95,11 @@ export function swatchFor(color?: string): string | null {
   if (PASTEL_SWATCHES[key]) return PASTEL_SWATCHES[key];
   const found = Object.keys(PASTEL_SWATCHES).find((k) => key.includes(k));
   return found ? PASTEL_SWATCHES[found] : null;
+}
+
+/** Titre à afficher (une note sans titre utilise le début de son texte). */
+export function displayTitle(i: Item): string {
+  if (i.title) return i.title;
+  if (i.type === 'note' && i.notes) return i.notes.length > 48 ? `${i.notes.slice(0, 46).trim()}…` : i.notes;
+  return 'Sans titre';
 }
