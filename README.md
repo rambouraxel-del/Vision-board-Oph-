@@ -69,3 +69,14 @@ Fond de carte © contributeurs OpenStreetMap (tuiles `tile.openstreetmap.org`, u
 ### Évolutions du modèle de données
 
 Incrémenter `DATA_VERSION` dans `src/db/migrations.ts` et ajouter la fonction de migration correspondante : elle s’applique aux données locales comme aux sauvegardes importées.
+
+### Tests des parcours essentiels
+
+`tests/parcours.mjs` vérifie dans un navigateur (Playwright) les parcours : exploration et retour aux zones, note avec photo après rechargement, déplacement de carte sans ouverture, vêtement/tenue/capsule, activité et objectif, destination avec checklist et budget, export/restauration, mise à jour sans perte de données, fonctionnement hors ligne.
+
+```bash
+npm run build
+mkdir -p /tmp/site && cp -r dist /tmp/site/Vision-board-Oph- && (cd /tmp/site && python3 -m http.server 8080 &)
+npx -y playwright@1 install chromium
+SITE=/tmp/site/Vision-board-Oph- node tests/parcours.mjs
+```
