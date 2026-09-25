@@ -32,14 +32,6 @@
     "source": "https://commons.wikimedia.org/wiki/File:Classroom_in_the_U.S.jpg"
   },
   {
-    "key": "classe-coin-lecture",
-    "title": "File:Reading Corner.jpg",
-    "author": "Eduwis Education",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Reading_Corner.jpg"
-  },
-  {
     "key": "classe-ecole",
     "title": "File:Primary school in Bernardswiller (2).jpg",
     "author": "Tournasol7",
@@ -240,6 +232,14 @@
     "source": "https://commons.wikimedia.org/wiki/File:Converse_Jack_Purcell_sneakers_on_white_canvas.jpg"
   },
   {
+    "key": "dress-cardigan",
+    "title": "File:Aran cardigan.jpg",
+    "author": "Lisa Dusseault from USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aran_cardigan.jpg"
+  },
+  {
     "key": "dress-chemise-lin",
     "title": "File:Blouse met korte mouw van transparant crèmekleurig katoen met opennaaiwerk, koordje in de taille, objectnr 26707.JPG",
     "author": "Museum Rotterdam",
@@ -302,5 +302,13 @@
     "license": "Public domain",
     "licenseUrl": "",
     "source": "https://commons.wikimedia.org/wiki/File:Trenchcoat_worn_by_President_Gerald_R._Ford.jpg"
+  },
+  {
+    "key": "dress-tshirt",
+    "title": "File:Marinière de la Marine nationale.JPG",
+    "author": "Claude TRUONG-NGOC",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marini%C3%A8re_de_la_Marine_nationale.JPG"
   }
 ]
